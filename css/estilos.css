@@ -1,0 +1,32 @@
+/body{ 
+  background-image: url('https://i.pinimg.com/originals/18/54/80/1854803b4c0e39ca5cfa283b3dbd4c0c.jpg');
+  background-size: auto 100vh;
+ }
+  .menu{
+    background-color:none;
+    color:pink
+    
+  }
+  
+.menu li{
+  list-style:none;
+}
+.menu ul{
+ 
+  display:flex;
+  justify-content:space-around
+    
+  
+}
+.site-subtitle,
+.site-title {
+ color: Red;
+  text-align:center;
+  }
+.site-subtitle{
+  color:royalblue
+}
+.post{
+  color:greenyellow
+  
+}
